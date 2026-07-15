@@ -1,39 +1,43 @@
-# Joseph Smith
+# Joseph B. Smith
 
-I build small, carefully documented tools and write closely sourced nonfiction, alongside an accounting and finance background.
+Staff Practice Accountant at OneOncology, working in practice revenue. MAcc candidate at
+Belmont University, testing for the CPA. Previously HCA Healthcare and MPower Physical Therapy.
 
-## About
+## Projects
 
-I work mostly on my own projects outside a day job: software that solves a real problem for one household or one small business, and nonfiction writing that follows primary sources rather than received wisdom. I'd rather ship something small and honest than something big and half-true.
+**[personal-erp](https://github.com/josephbsmith/personal-erp)** — a local-first accounting
+system for one household, built the way a general ledger works rather than as a budgeting app.
+Double-entry core, dimensional reporting, statement ingestion and reconciliation, fixed assets,
+debt, budgets, forecasts, KPIs. Python and SQLite, one file on your own machine, nothing leaves
+it. MIT.
 
-## Featured Projects
+**[radio-frequency](https://github.com/josephbsmith/radio-frequency)** — Personal Frequency, a
+local radio tuner. Presets on a dial, live streams, podcast RSS, and your own audio files. A
+stdlib Python server and one page of vanilla JS. No build step, no dependencies. MIT.
 
-**The New York Clearing House, 1853–1913** — a sourced narrative history of how a private association of New York banks performed many of the functions later assigned to a central bank, six decades before the Federal Reserve existed. Every claim is checked against a verified citation from a primary source. *Status: in progress — manuscript in final drafting.*
+**[josephbsmith.com](https://github.com/josephbsmith/josephbsmith.com)** — my site. Hand-written
+HTML, one file per page. No framework, no build step, no analytics, no cookies.
 
-**ClearRate** — a healthcare price-transparency tool. It lets a patient or employer compare what hospitals and insurers actually charge for common procedures, using public rate data rather than list prices. *Status: early-stage prototype, not yet publicly launched.*
+**ClearRate** — crawls hospital price-transparency files at scale and turns them into one
+queryable dataset. Runs under [Branmoor](https://branmoor.com). Private.
 
-**Personal ERP** — a local, self-hosted accounting and household-finance system, built the way a real general ledger works rather than as a budgeting app: double-entry books, bank reconciliation, budgets, and forecasts in one place. *Status: in active development.*
+## Writing
 
-<!--
-Looking for a 4th and 5th featured project. Two candidates worth a look:
-1. "Personal Frequency" — a small local web app that acts like a radio tuner for station presets,
-   podcast RSS feeds, and your own audio files. Clean, finished, easy to publish as-is.
-2. A cleaned-up public demo built from the existing payor-intelligence/payor-proxy repos on this
-   account — but those repos need a privacy pass first (see report) before they're safe to feature.
--->
+Essays and histories from primary sources. Every factual claim resolves to a verified page
+reference before it ships; unverifiable claims get cut rather than softened.
 
-## Writing & Research
+*The Economist and the Artist: A 200-Year History* covers 200 years of monetary history, from
+Napoleon to the first trillionaire. Shorter histories cover the New York Clearing House, the
+Exchequer of England, the Arsenal of Venice, the Janissary Corps, and the Commissioners of
+Longitude, among others.
 
-My nonfiction work follows a strict source-and-citation discipline: every factual claim in a manuscript has to resolve to a verified page reference in a primary source before it can ship, and unverifiable claims get cut rather than softened. *The New York Clearing House* is the current book built this way.
+All of it is at [josephbsmith.com/writing](https://josephbsmith.com/writing).
 
-## Selected Experiments
+## Tools
 
-Smaller projects and one-off tools live here as they're ready to show. More coming soon.
-
-## Skills & Tools
-
-Python, TypeScript/JavaScript, SQL, and Bash for most of the above. Comfortable with double-entry accounting and financial statement structure, source-verified research and writing workflows, and small full-stack web apps (FastAPI/Flask-style backends, plain HTML/JS or React frontends).
+Python, JavaScript, SQL, Bash. Double-entry accounting and financial statement structure.
 
 ## Contact
 
+[josephsmith286@gmail.com](mailto:josephsmith286@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/josephbenjaminsmith)
