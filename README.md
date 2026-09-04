@@ -19,7 +19,7 @@ stdlib Python server and one page of vanilla JS. No build step, no dependencies.
 HTML, one file per page. No framework, no build step, no analytics, no cookies.
 
 **ClearRate** — crawls hospital price-transparency files at scale and turns them into one
-queryable dataset. Runs under [Branmoor](https://branmoor.com). Private.
+queryable dataset. Private.
 
 ## Writing
 
